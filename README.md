@@ -1,11 +1,42 @@
-                                                       Hi 👋, Laiba Zahid
-                                        A passionate mobile and web app developer from Pakistan
-🔴 I'm currently working on<br>Building responsive web projects using HTML, CSS, JavaScript, and PHP, as well as developing mobile apps with Flutter.<br><br>🟢 I'm looking to collaborate on<br>Web development projects, mobile apps, or open-source contributions that involve frontend/backend development or cross-platform app creation.<br><br>⚪ I'm looking for help with<br>Advanced backend development, API integrations, and optimizing WordPress themes and plugins.<br><br>🌿 I'm currently learning<br>WordPress development, including theme customization, plugin development, and improving my skills in modern PHP and Flutter best practices.<br><br>📝 Ask me about<br>HTML, CSS, JavaScript, PHP basics, Flutter app development, or tips for starting with WordPress.<br><br>
+<h1 align="center">Hi 👋, I'm Laiba Zahid</h1>
+<h3 align="center">A passionate mobile and web app developer from Pakistan</h3>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Laiba Zahid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lybahzahid343@gmail.com) 
+## 🔴 **Currently Working On**
+Building responsive web projects using **HTML, CSS, JavaScript, and PHP**, as well as developing mobile apps with **Flutter**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+## 🟢 **Looking to Collaborate On**
+Web development projects, mobile apps, or open-source contributions involving frontend/backend development or cross-platform app creation.
 
+## ⚪ **Looking for Help With**
+Advanced backend development, API integrations, and optimizing WordPress themes and plugins.
+
+## 🌿 **Currently Learning**
+WordPress development, including theme customization, plugin development, and improving my skills in modern PHP and Flutter best practices.
+
+## 📝 **Ask Me About**
+HTML, CSS, JavaScript, PHP basics, Flutter app development, or tips for starting with WordPress.
+
+---
+
+### 🛠️ **Tech Stack**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+---
+
+### 📫 **Connect With Me**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lybahzahid343@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-zahid-4977b2357)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lybah-gif)
+
+---
+
+### 📊 **GitHub Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=laibazahid&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laibazahid&layout=compact&theme=radical)
