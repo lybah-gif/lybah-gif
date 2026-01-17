@@ -1,4 +1,5 @@
-# 💫 About Me:
+                                                                                                   Hi 👋, Laiba Zahid
+                                                                                    A passionate mobile and web app developer from Pakistan
 🔴 I'm currently working on<br>Building responsive web projects using HTML, CSS, JavaScript, and PHP, as well as developing mobile apps with Flutter.<br><br>🟢 I'm looking to collaborate on<br>Web development projects, mobile apps, or open-source contributions that involve frontend/backend development or cross-platform app creation.<br><br>⚪ I'm looking for help with<br>Advanced backend development, API integrations, and optimizing WordPress themes and plugins.<br><br>🌿 I'm currently learning<br>WordPress development, including theme customization, plugin development, and improving my skills in modern PHP and Flutter best practices.<br><br>📝 Ask me about<br>HTML, CSS, JavaScript, PHP basics, Flutter app development, or tips for starting with WordPress.<br><br>🔄 Fun fact<br>I can build a website from scratch and turn it into a mobile app—all before my coffee gets cold ☕🚀
 
 
